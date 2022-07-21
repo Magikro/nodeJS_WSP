@@ -11,3 +11,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Huskysta";
+  src: local("Huskysta"), url(./fonts/HUSKYSTA.TTF) format('truetype');
+}
+.husk {
+  font-family: "Huskysta";
+}
+
+@font-face {
+  font-family: "Huskysta";
+  src: local("Huskysta"), url(./fonts/HUSKYSTA.TTF) format('truetype');
+}
+.husk {
+  font-family: "Huskysta";
+}
+
+@font-face {
+  font-family: "FFM";
+  src: local("FFM"), url(./fonts/SF\ Funk\ Master.ttf) format('truetype');
+}
+.ffm {
+  font-family: "FFM";
+}
+
+@font-face {
+  font-family: "Magenta";
+  src: local("Magenta"), url(./fonts/Magenta_BBT.ttf) format('truetype');
+}
+.mag {
+  font-family: "Magenta";
+}
+
+@font-face {
+  font-family: "ANation";
+  src: local("ANation"), url(./fonts/androidnation.ttf) format('truetype');
+}
+.anation {
+  font-family: "ANation";
+}
+
+@font-face {
+  font-family: "Yayusa";
+  src: local("Yayusa"), url(./fonts/yay-usa/yayusa3d.ttf) format('truetype');
+}
+.yay {
+  font-family: "Yayusa";
+  font-size: 100px;
+}
