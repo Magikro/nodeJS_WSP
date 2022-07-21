@@ -18,22 +18,7 @@ code {
 }
 .husk {
   font-family: "Huskysta";
-}
-
-@font-face {
-  font-family: "Huskysta";
-  src: local("Huskysta"), url(./fonts/HUSKYSTA.TTF) format('truetype');
-}
-.husk {
-  font-family: "Huskysta";
-}
-
-@font-face {
-  font-family: "FFM";
-  src: local("FFM"), url(./fonts/SF\ Funk\ Master.ttf) format('truetype');
-}
-.ffm {
-  font-family: "FFM";
+  font-size: 100px;
 }
 
 @font-face {
@@ -42,21 +27,26 @@ code {
 }
 .mag {
   font-family: "Magenta";
-}
-
-@font-face {
-  font-family: "ANation";
-  src: local("ANation"), url(./fonts/androidnation.ttf) format('truetype');
-}
-.anation {
-  font-family: "ANation";
+  font-size: 100px;
 }
 
 @font-face {
   font-family: "Yayusa";
-  src: local("Yayusa"), url(./fonts/yay-usa/yayusa3d.ttf) format('truetype');
+  src: local("Yayusa"), url(./fonts/york-whiteletter/yorkwhiteletter.ttf) format('truetype');
 }
 .yay {
   font-family: "Yayusa";
-  font-size: 100px;
+  font-size: 130px;
+}
+
+@font-face {
+  font-family: "Abduct";
+  src: local("Abduct"), url(./fonts/thunderstrike/thunderstrikehalf.ttf) format('truetype');
+}
+
+.navi {
+  border-radius: 30px 0 0 30px;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-family: "Abduct";
 }

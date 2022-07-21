@@ -7,7 +7,7 @@ const Home = () => {
         <div className="App">
             <header className="App-header">
                 <h1 className="yay">
-                    Ethans Future Portfolio
+                Ì\ethans"portfolio\Í
                 </h1>
             </header>
         </div>
